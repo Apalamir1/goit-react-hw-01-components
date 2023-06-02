@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Apalamir1/goit-react-hw-01-components.git/static/css/main.ae384bf7.css",
+    "main.js": "/Apalamir1/goit-react-hw-01-components.git/static/js/main.a5326712.js",
+    "index.html": "/Apalamir1/goit-react-hw-01-components.git/index.html",
+    "main.ae384bf7.css.map": "/Apalamir1/goit-react-hw-01-components.git/static/css/main.ae384bf7.css.map",
+    "main.a5326712.js.map": "/Apalamir1/goit-react-hw-01-components.git/static/js/main.a5326712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae384bf7.css",
+    "static/js/main.a5326712.js"
+  ]
+}
