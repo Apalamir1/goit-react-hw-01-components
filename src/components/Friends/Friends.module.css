@@ -1,0 +1,47 @@
+.list {
+  margin: 0 auto;
+  width: 200px;
+  height: auto;
+}
+
+.item {
+  display: flex;
+
+  height: auto;
+  background-color: white;
+  margin-bottom: 10px;
+  padding: 5px;
+
+  align-items: center;
+  border: 2px solid #d6d6d6;
+  border-radius: 12px;
+}
+
+.item:last-child {
+  margin-bottom: 0;
+}
+
+.online {
+  margin-left: 15px;
+  width: 12px;
+  height: 12px;
+  background-color: green;
+  border-radius: 12px;
+}
+
+.offline {
+  margin-left: 15px;
+  width: 12px;
+  height: 12px;
+  background-color: red;
+  border-radius: 12px;
+}
+
+.avatar {
+  margin-left: 12px;
+}
+
+.name {
+  margin-left: 12px;
+  font-weight: 600;
+}
